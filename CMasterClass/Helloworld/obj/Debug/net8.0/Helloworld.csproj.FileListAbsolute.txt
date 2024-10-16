@@ -12,3 +12,4 @@ D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\refint\Helloworl
 D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.pdb
 D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
 D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\ref\Helloworld.dll
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.sourcelink.json

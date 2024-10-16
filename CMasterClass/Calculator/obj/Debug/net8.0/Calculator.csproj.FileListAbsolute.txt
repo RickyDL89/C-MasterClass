@@ -1,0 +1,15 @@
+D:\repos\C-MasterClass\CMasterClass\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\repos\C-MasterClass\CMasterClass\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\repos\C-MasterClass\CMasterClass\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\repos\C-MasterClass\CMasterClass\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\repos\C-MasterClass\CMasterClass\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\repos\C-MasterClass\CMasterClass\Calculator\obj\Debug\net8.0\ref\Calculator.dll
