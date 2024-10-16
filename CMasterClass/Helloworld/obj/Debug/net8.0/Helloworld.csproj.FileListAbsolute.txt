@@ -1,0 +1,14 @@
+D:\repos\C-MasterClass\CMasterClass\Helloworld\bin\Debug\net8.0\Helloworld.exe
+D:\repos\C-MasterClass\CMasterClass\Helloworld\bin\Debug\net8.0\Helloworld.deps.json
+D:\repos\C-MasterClass\CMasterClass\Helloworld\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+D:\repos\C-MasterClass\CMasterClass\Helloworld\bin\Debug\net8.0\Helloworld.dll
+D:\repos\C-MasterClass\CMasterClass\Helloworld\bin\Debug\net8.0\Helloworld.pdb
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.dll
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\refint\Helloworld.dll
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.pdb
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+D:\repos\C-MasterClass\CMasterClass\Helloworld\obj\Debug\net8.0\ref\Helloworld.dll
