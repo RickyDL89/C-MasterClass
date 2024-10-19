@@ -1,0 +1,7 @@
+D:\repos\C-MasterClass\CMasterClass\Quiz2\obj\Debug\Quiz2.csproj.AssemblyReference.cache
+D:\repos\C-MasterClass\CMasterClass\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+D:\repos\C-MasterClass\CMasterClass\Quiz2\bin\Debug\Quiz2.exe.config
+D:\repos\C-MasterClass\CMasterClass\Quiz2\bin\Debug\Quiz2.exe
+D:\repos\C-MasterClass\CMasterClass\Quiz2\bin\Debug\Quiz2.pdb
+D:\repos\C-MasterClass\CMasterClass\Quiz2\obj\Debug\Quiz2.exe
+D:\repos\C-MasterClass\CMasterClass\Quiz2\obj\Debug\Quiz2.pdb
