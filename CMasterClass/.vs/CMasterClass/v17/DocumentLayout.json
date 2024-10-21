@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\repos\\C-MasterClass\\CMasterClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A437BE54-21A0-456B-9EF7-F8941EC136E4}|Quiz2\\Quiz2.csproj|d:\\repos\\c-masterclass\\cmasterclass\\quiz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A437BE54-21A0-456B-9EF7-F8941EC136E4}|Quiz2\\Quiz2.csproj|solutionrelative:quiz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05AE0BE0-75B8-4F64-8AA0-E8966648F1F4}|DoLoop\\DoLoop.csproj|d:\\repos\\c-masterclass\\cmasterclass\\doloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AE0BE0-75B8-4F64-8AA0-E8966648F1F4}|DoLoop\\DoLoop.csproj|solutionrelative:doloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5353DF04-C5FC-47B4-A68E-40818D536B0C}|Adventure\\Adventure.csproj|d:\\repos\\c-masterclass\\cmasterclass\\adventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5353DF04-C5FC-47B4-A68E-40818D536B0C}|Adventure\\Adventure.csproj|solutionrelative:adventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,13 +68,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\Quiz2\\Program.cs",
-              "RelativeDocumentMoniker": "Quiz2\\Program.cs",
-              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\Quiz2\\Program.cs",
-              "RelativeToolTip": "Quiz2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\DoLoop\\Program.cs",
+              "RelativeDocumentMoniker": "DoLoop\\Program.cs",
+              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\DoLoop\\Program.cs",
+              "RelativeToolTip": "DoLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:23:07.384Z",
+              "WhenOpened": "2024-10-21T14:12:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\Adventure\\Program.cs",
+              "RelativeDocumentMoniker": "Adventure\\Program.cs",
+              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\Adventure\\Program.cs",
+              "RelativeToolTip": "Adventure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:56:44.538Z",
               "EditorCaption": ""
             }
           ]
