@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\repos\\C-MasterClass\\CMasterClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5292FA9D-3C04-41C9-8BD4-A6C96FF7A44D}|ForEachLoop\\ForEachLoop.csproj|d:\\repos\\c-masterclass\\cmasterclass\\foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5292FA9D-3C04-41C9-8BD4-A6C96FF7A44D}|ForEachLoop\\ForEachLoop.csproj|solutionrelative:foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D5BB9D2-AC11-467B-B674-06307D3B75BB}|2DArrays\\2DArrays.csproj|d:\\repos\\c-masterclass\\cmasterclass\\2darrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5BB9D2-AC11-467B-B674-06307D3B75BB}|2DArrays\\2DArrays.csproj|solutionrelative:2darrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,13 +64,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\ForEachLoop\\Program.cs",
-              "RelativeDocumentMoniker": "ForEachLoop\\Program.cs",
-              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\ForEachLoop\\Program.cs",
-              "RelativeToolTip": "ForEachLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\2DArrays\\Program.cs",
+              "RelativeDocumentMoniker": "2DArrays\\Program.cs",
+              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\2DArrays\\Program.cs*",
+              "RelativeToolTip": "2DArrays\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T10:58:58.706Z",
+              "WhenOpened": "2024-10-24T13:20:14.465Z",
               "EditorCaption": ""
             }
           ]
