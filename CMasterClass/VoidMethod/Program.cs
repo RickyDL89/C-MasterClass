@@ -21,3 +21,12 @@ void WriteSomething(string myString)
 }
 
 WriteSomething("This is my string");
+
+//2 Parameter
+void AddTwoValues(int value1, int value2)
+{
+    int result = value1 + value2;
+    Console.WriteLine(result);
+}
+
+AddTwoValues(1, 2);

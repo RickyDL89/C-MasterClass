@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\VoidMethod\\Program.cs",
+              "RelativeDocumentMoniker": "VoidMethod\\Program.cs",
+              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\VoidMethod\\Program.cs",
+              "RelativeToolTip": "VoidMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:52:23.29Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -59,19 +72,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\C-MasterClass\\CMasterClass\\VoidMethod\\Program.cs",
-              "RelativeDocumentMoniker": "VoidMethod\\Program.cs",
-              "ToolTip": "D:\\repos\\C-MasterClass\\CMasterClass\\VoidMethod\\Program.cs",
-              "RelativeToolTip": "VoidMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:25:35.988Z",
-              "EditorCaption": ""
             }
           ]
         },
